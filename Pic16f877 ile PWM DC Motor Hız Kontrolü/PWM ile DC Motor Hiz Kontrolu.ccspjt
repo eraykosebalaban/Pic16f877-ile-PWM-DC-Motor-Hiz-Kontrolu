@@ -1,0 +1,16 @@
+[PROJECT]
+Target=PWM ile DC Motor Hiz Kontrolu.hex
+Processor_Text=PIC16F877
+CCSVersion=5.007
+Compiler=PCM
+[Target Data]
+FileList=PWM ile DC Motor Hiz Kontrolu.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\
+[PWM ile DC Motor Hiz Kontrolu.c]
+Type=4
+[mru-list]
+1=PWM ile DC Motor Hiz Kontrolu.c
+[Units]
+Count=1
+1=PWM ile DC Motor Hiz Kontrolu (main)
